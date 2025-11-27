@@ -10,6 +10,7 @@ namespace Lab5
             double[] answer = new double[matrix.GetLength(0)];
 
             // code here
+
             
             int n = matrix.GetLength(0);
             int m = matrix.GetLength(1);
@@ -438,3 +439,4 @@ namespace Lab5
         }
     }
 }
+
